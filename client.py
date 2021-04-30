@@ -30,4 +30,5 @@ def send(msg):
 
 send('Hello World!, This message is from the client side')
 send('My name is Riya Chaugule')
+send('hello')
 
